@@ -1,0 +1,16 @@
+2023-12-14T00:01:07.301 INFO  [com.example.lab5.database.CarService] - Execute create table
+2023-12-14T00:02:31.701 INFO  [com.example.lab5.database.CarService] - Execute create table
+2023-12-14T00:03:24.030 INFO  [com.example.lab5.database.CarService] - Execute create table
+2023-12-14T00:05:53.688 INFO  [com.example.lab5.database.CarService] - Execute create table
+2023-12-14T00:27:01.038 INFO  [com.example.lab5.database.CarStateService] - Execute create car_states table
+2023-12-14T00:27:01.040 INFO  [com.example.lab5.database.CarService] - Execute create cars table
+2023-12-14T00:27:01.041 INFO  [com.example.lab5.database.FlightService] - Execute create flights table
+2023-12-14T00:27:01.042 INFO  [com.example.lab5.database.RoleService] - Execute create user_roles table
+2023-12-14T00:27:01.043 INFO  [com.example.lab5.database.UserService] - Execute create users table
+2023-12-14T00:27:01.043 INFO  [com.example.lab5.database.UserFlightRelation] - Execute create user_flight_relation table
+2023-12-14T00:27:07.539 INFO  [com.example.lab5.database.UserService] - Execute getAllUsers method
+2023-12-14T00:27:14.362 INFO  [com.example.lab5.database.UserService] - Execute getAllUsers method
+2023-12-14T00:27:14.367 INFO  [com.example.lab5.database.UserService] - Execute updateUserAuth method
+2023-12-14T00:27:16.864 INFO  [com.example.lab5.database.UserService] - Execute getAllUsers method
+2023-12-14T00:27:23.870 INFO  [com.example.lab5.database.UserService] - Execute filterUserByRole method
+2023-12-14T00:27:27.356 INFO  [com.example.lab5.database.UserService] - Execute updateUserAuth method
